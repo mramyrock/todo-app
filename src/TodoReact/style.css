@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-div{
+background-color: rgb(0, 181, 226);
+}
+.chid-div{
+color: rgb(1, 46, 7);
+text-align: center;
+margin-top: 20vh;
+}
+
+.addItems{
+color: rgb(255, 9, 255);
+
+
+}
